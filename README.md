@@ -173,7 +173,7 @@ employee-ai-system/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/username/employee-ai-system.git
+git clone https://github.com/aasyhadi/employee-ai-system.git
 
 cd employee-ai-system
 ```
