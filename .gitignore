@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Database / ML
+*.db
+mlflow.db
+mlruns/
+backend/mlruns/
+backend/mlflow.db
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# Node
+node_modules/
+frontend/dist/
+
+# Docker
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
