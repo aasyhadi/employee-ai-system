@@ -606,7 +606,7 @@ MIT License
 
 # Author
 
-Employee AI System
+Ahmad Asyhadi - Full Stack AI Engineer 
 
 Built with:
 
